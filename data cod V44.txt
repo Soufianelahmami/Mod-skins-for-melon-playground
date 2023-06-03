@@ -39,37 +39,37 @@
 },
 
   "my_data":[
-    {"title":"title1 ser",
-      "desc":"description1 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 1",
+      "desc":"Mod skins for melon playground 1",
+      "photo":"https://iili.io/H4dCTej.jpg"},
 
-    {"title":"title2 ser",
-      "desc":"description2 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 2",
+      "desc":"Mod skins for melon playground 2",
+      "photo":"https://iili.io/H4dCumx.jpg"},
 
-    {"title":"title3 ser",
-      "desc":"description3 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 3",
+      "desc":"Mod skins for melon playground 3",
+      "photo":"https://iili.io/H4dCI5b.webp"},
 
-    {"title":"title4 ser",
-      "desc":"description4 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 4",
+      "desc":"Mod skins for melon playground 4",
+      "photo":"https://iili.io/H4dCoge.webp"},
 
-    {"title":"title5 ser",
-      "desc":"description5 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 5",
+      "desc":"Mod skins for melon playground 5",
+      "photo":"https://iili.io/H4dfN1e.webp"},
 
-    {"title":"title6 ser",
-      "desc":"description6 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 6",
+      "desc":"Mod skins for melon playground 6",
+      "photo":"https://iili.io/H4dCRzQ.jpg"},
 
-    {"title":"title7 ser",
-      "desc":"description7 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod pack 7",
+      "desc":"Mod skins for melon playground 7",
+      "photo":"https://iili.io/H4dC5XV.webp"},
 
-    {"title":"title8 ser",
-      "desc":"description8 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+    {"title":"Mod pack 8",
+      "desc":"Mod skins for melon playground 8",
+      "photo":"https://iili.io/H4dCumx.jpg"}
   ]
 
 }
